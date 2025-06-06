@@ -1,5 +1,3 @@
-# Buzzer-controlled-with-bluetooth-using-arduino
-Bluetooth-controlled buzzer system using Arduino for wireless sound activation via smartphone commands.
 # 🔊 Bluetooth-Controlled Buzzer using Arduino
 
 This project demonstrates how to control a buzzer wirelessly using an Arduino and an HC-05 Bluetooth module. A smartphone can send commands to the Arduino via Bluetooth to turn the buzzer ON or OFF.
